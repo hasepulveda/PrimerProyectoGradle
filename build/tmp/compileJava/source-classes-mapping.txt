@@ -1,0 +1,12 @@
+com/theinternet/herokuapp/automation/pageobjects/LoginPage.java
+ com.theinternet.herokuapp.automation.pageobjects.LoginPage
+com/theinternet/herokuapp/automation/pageobjects/MessagePage.java
+ com.theinternet.herokuapp.automation.pageobjects.MessagePage
+com/theinternet/herokuapp/automation/steps/HomeStep.java
+ com.theinternet.herokuapp.automation.steps.HomeStep
+com/theinternet/herokuapp/automation/steps/MessageStep.java
+ com.theinternet.herokuapp.automation.steps.MessageStep
+com/theinternet/herokuapp/automation/steps/LoginStep.java
+ com.theinternet.herokuapp.automation.steps.LoginStep
+com/theinternet/herokuapp/automation/pageobjects/HomePage.java
+ com.theinternet.herokuapp.automation.pageobjects.HomePage

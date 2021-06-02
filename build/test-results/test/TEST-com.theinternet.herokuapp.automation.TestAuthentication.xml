@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.theinternet.herokuapp.automation.TestAuthentication" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-02T15:25:10" hostname="DESKTOP-2D4DTVJ" time="41.714">
+  <properties/>
+  <testcase name="authenticationInHeroKuapp()" classname="com.theinternet.herokuapp.automation.TestAuthentication" time="41.714"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ChromeDriverProvider - Using automatically driver download
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 91.0.4472.19 (resolved driver for Chrome 91)
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+[Test worker] INFO io.github.bonigarcia.wdm.online.Downloader - Downloading https://chromedriver.storage.googleapis.com/91.0.4472.19/chromedriver_win32.zip
+[Test worker] INFO io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver_win32.zip
+[Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sepul\.cache\selenium\chromedriver\win32\91.0.4472.19\chromedriver.exe
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized, --incognito, goog:chromeOptions: {args: [--start-maximized, --incognito], extensions: []}, loggingPrefs: org.openqa.selenium.logging...}
+Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 44010
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1622647536.732][WARNING]: This version of ChromeDriver has not been tested with Chrome version 91.
+jun 02, 2021 10:25:38 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
